@@ -11,8 +11,11 @@ In this exercise javascript is used to manipulate the dom by adding the image of
 ## Roadmap for future improvement
 To make it interactive, so that in addition to reverting from the boundary it also reverts when clicked by mouse.
 ## Contributors
-Ramzi Osta
-Dr. Williams
+<ul>
+  <li>Dr. Sanchez</li>
+  <li>Dr. Williams</li>
+ </ul>
+ 
 ## License
 MIT License
 Please refer to the license page in the repository
