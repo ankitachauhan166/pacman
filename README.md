@@ -7,6 +7,7 @@ In this exercise javascript is used to manipulate the dom by adding the image of
   <li>clone it to your local machine</li>
   <li>open index.html file in browser</li>
  </ul>
+ 
 ## Roadmap for future improvement
 To make it interactive, so that in addition to reverting from the boundary it also reverts when clicked by mouse.
 ## Contributors
